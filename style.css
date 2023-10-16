@@ -1,0 +1,14 @@
+.center{
+    display: block;
+    border: 3px solid rgb(237, 53, 53);
+    margin: auto;
+    width:50%;
+    text-align: center;
+}
+.grey{
+    margin: auto;
+    width: 50%;
+}
+*{
+    background-color: rgb(179, 186, 193);
+}
